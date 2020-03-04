@@ -42,4 +42,4 @@ npm run test
 If you have any questions about the repo, open an issue or contact [kevincwashburn](https://api.github.com/users/kevincwashburn) directly at kevincwashburn@gmail.com.
 
 
-![deployed-jpg](/assets/images/deployed-screenshot.jpg)
+![deployed-jpg](/public/assets/images/deployed-screenshot.jpg)
