@@ -29,7 +29,7 @@ app.get("/api/notes", function(req, res) {
 app.post("/api/notes", function(req, res) {
     const newNote = req.body;
     let id;
-    if (!data.length) id = 0
+    if (!data.length) id = 1
     else id = data[data.length -1].id + 1;
     newNote.id = id;
     data.push(newNote);
